@@ -1,0 +1,100 @@
+Name,Price Caps,Attack Low,Attack Normal,Attack Crit,Clip size,Clip Price,Reload Time,Repair Price,Strenght Required,Special
+Snub Revolver,110,3,5,10,4,4,0,55,2,
+Revolver,500,10,20,40,6,4,0,250,2,
+Heavy Revolver,2500,25,50,100,6,8,1,1250,4,
+Miniature Pistol,75,2,4,8,12,12,0,38,2,
+9 mm Pistol,250,8,16,24,12,12,0,125,2,
+Quad Pistol,400,24,48,96,4,4,0,200,2,
+Heavy Pistol,1000,32,64,128,12,24,0,500,3,
+Sawed Off Shotgun,2000,30,60,120,4,80,0,1000,2,
+Shotgun,1650,35,70,140,6,120,1,825,4,
+Military Shotgun,1800,45,80,160,8,160,1,900,5,
+Anti-Riot Shotgun,2700,35,70,140,6,120,0,1350,5,
+Electromag Shotgun,2000,30,60,120,6,120,1,1000,5,2X DAM Robots & Power Armor
+SMG,900,18,36,72,35,105,1,450,3,
+Machinegun,1700,36,72,144,60,180,1,850,6,
+Gatling,5000,150,290,580,250,750,2,2500,8,
+Dart Rifle,1250,0,0,0,5,15,1,625,5,Stunning
+Combat Rifle,2000,0,120,240,30,90,1,1000,5,
+Sniper Rifle,2500,70,140,280,5,15,1,1250,6,
+Military Sniper,3500,80,150,300,15,45,1,1750,5,
+Rad-Rifle,2500,50,100,200,30,90,1,1250,2,Radioactive
+Mini Grenade Launcher,1500,70,140,280,1,20,0,750,2,
+Grenade Launcher,2750,140,280,560,2,40,1,1375,4,
+Fat Man,4000,560,1200,2400,1,20,2,2000,7,Radioactive
+Handmade Bazooka,1500,90,180,360,1,20,1,750,6,
+Military Bazooka,3000,120,240,480,1,20,1,1500,6,
+Missile Launcher,5000,140,280,560,5,100,2,2500,6,
+Timebomb,200,500,1000,2000,0,N/A,0,100,1,
+Gas Bomb,200,0,0,0,0,N/A,0,100,1,
+Molotov Conctail,75,75,150,300,0,N/A,0,38,1,Incendiary
+Anti-Tank Grenade,125,50,100,200,0,N/A,0,63,1,Destroys armor
+Stun Grenade,100,0,0,0,0,N/A,0,50,1,Stunning
+Cryo Grenade,100,50,100,200,0,N/A,0,50,1,Freezing
+Frag Grenade,85,80,160,320,0,N/A,0,43,1,
+Plasma Grenade,200,100,200,400,0,N/A,0,100,1,Can destroy armor
+Pulse Grenade,200,50,100,200,0,N/A,0,100,1,2X DAM Robots & Power Armor
+Nuclear Grenade,300,50,100,200,0,N/A,0,150,1,Radioactive
+Bottlecap Mine,200,150,300,600,0,N/A,0,100,1,
+Cryo Mine,200,100,200,400,0,N/A,0,100,1,Freezing
+Frag Mine,150,160,320,640,0,N/A,0,75,1,
+Plasma Mine,350,200,400,800,0,N/A,0,175,1,Can destroy armor
+Pulse Mine,350,100,200,400,0,N/A,0,175,1,2X DAM Robots & Power Armor
+Nuclear Mine,500,100,200,400,0,N/A,0,250,1,Radioactive
+C4 Explosive,700,500,1000,2000,0,N/A,0,350,1,
+Flare Gun,200,16,32,64,1,18,0,100,2,Incendiary
+Handmade Flamer,500,50,100,200,30,540,1,250,4,Incendiary
+Military Flamer,750,75,150,300,40,720,1,375,4,Incendiary
+Handmade Laser Pistol,250,7,14,28,10,80,1,125,3,Primitive: Easier and cheaper to repair
+Laser Pistol,550,10,20,40,10,80,1,275,2,
+Laser Rifle,1700,50,100,200,25,200,1,850,4,
+Laser Sniper,3000,75,150,300,15,120,1,1500,5,
+Laser Machinegun,2500,70,140,280,40,320,1,1250,5,
+Laser Gatling,5500,240,480,960,200,1600,2,2750,7,
+Plasma Pistol,600,10,20,40,8,80,1,300,2,Can destroy armor
+Plasma Rifle,2500,70,140,280,20,200,1,1250,4,Can destroy armor
+Plasma Shotgun,2200,50,100,200,15,150,1,1100,5,Can destroy armor
+Plasma Cannon,7500,800,1600,3200,5,50,2,3750,8,Can destroy armor
+Freeze Ray,1800,60,120,240,30,300,1,900,4,Freezing
+Tesla Gun,1100,30,60,120,10,100,1,550,2,Stunning
+Tesla Rifle,3000,70,140,280,25,250,1,1500,4,Stunning
+Auto Recharger Pistol,700,5,10,20,Infinite,N/A,1,350,2,Infinite Ammo
+Auto Recharger Rifle,1800,20,40,80,Infinite,N/A,1,900,4,Infinite Ammo
+Auto Recharger Cannon,3000,50,100,200,Infinite,N/A,2,1500,5,Infinite Ammo
+Experimental Pistol,4500,45,90,180,5,125,1,2250,2,Ignores Armor
+Pulse Gun,3700,15,30,60,8,200,1,1850,2,2X DAM Robots & Power Armor
+Gamma Gun,1250,25,50,100,8,200,1,625,2,Radioactive
+Alien Pistol,3700,50,100,200,8,200,1,1850,2,
+Nailclub,100,20,40,80,0,N/A,0,50,3,
+Crowbar,125,25,50,100,0,N/A,0,63,3,
+Golf Club,125,25,50,100,0,N/A,0,63,3,
+Shovel,150,20,40,80,0,N/A,0,75,3,Used to bury or open graves
+Frying Pan,75,10,20,40,0,N/A,0,38,1,
+Shishkebab,300,40,80,160,0,N/A,0,150,3,Incendiary
+Switchblade,50,8,16,32,0,N/A,0,25,1,
+Primitive Knife,100,16,32,64,0,N/A,0,50,1,Primitive: Easier and cheaper to repair
+Combat Knife,250,32,64,128,0,N/A,0,125,1,
+Plasma Torch,750,100,200,400,0,N/A,1,375,5,Can destroy armor
+Medic Needle,500,12,24,48,0,N/A,0,250,2,
+Katana,800,35,70,140,0,N/A,0,400,3,
+Thermic Lance,1200,110,220,440,0,N/A,1,600,5,Ignores Armor
+Primitive Sword,700,60,120,240,0,N/A,0,350,5,Primitive: Easier and cheaper to repair
+Monkey Wrench,90,15,30,60,0,N/A,0,45,2,Can repair robots
+Machete,100,35,70,140,0,N/A,0,50,3,
+Sledgehammer,150,60,120,240,0,N/A,0,75,5,
+Powerjack,250,55,110,220,0,N/A,1,125,6,2X DAM Robots & Power Armor
+Rake,120,50,100,200,0,N/A,0,60,4,
+Butcher's Knife,100,40,80,160,0,N/A,0,50,2,
+Fire Axe,120,55,110,220,0,N/A,0,60,3,
+Primitive Axe,100,50,100,200,0,N/A,0,50,3,Primitive: Easier and cheaper to repair
+Disruptor Axe,200,70,140,280,0,N/A,1,100,4,Incendiary
+Ripper,250,80,160,320,0,N/A,1,125,3,
+Chainsaw,500,150,300,600,0,N/A,1,250,6,
+Deathclaw gauntlet,700,100,200,400,0,N/A,0,350,3,Ignores Armor
+Primitive Powerfist,400,80,160,320,0,N/A,0,200,3,Primitive: Easier and cheaper to repair
+Power Fist,450,90,180,360,0,N/A,0,225,3,
+Shotgun Fist,550,120,240,480,0,N/A,1,275,3,
+Chainfist,700,100,200,400,0,N/A,0,350,3,
+Beartrap Fist,650,70,140,280,0,N/A,0,325,3,Can attack at a distance
+Primitive Bow,800,,0,0,1,Variable,1,400,2,Various Ammo types / Primitive: Easier and cheaper to repair
+Military Bow,1300,,0,0,1,Variable,1,650,2,Various Ammo types

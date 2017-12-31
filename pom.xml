@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>Nukabot</groupId>
+    <artifactId>Nukabot</artifactId>
+    <version>0.1</version>
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-compiler-plugin</artifactId>
+                <configuration>
+                    <source>1.8</source>
+                    <target>1.8</target>
+                </configuration>
+            </plugin>
+
+            <plugin>
+                <artifactId>maven-assembly-plugin</artifactId>
+                <configuration>
+                    <archive>
+                        <manifest>
+                            <mainClass>com.tree.NukaBot.NukaBotMain</mainClass>
+                        </manifest>
+                    </archive>
+                    <descriptorRefs>
+                        <descriptorRef>jar-with-dependencies</descriptorRef>
+                    </descriptorRefs>
+                </configuration>
+            </plugin>
+
+        </plugins>
+    </build>
+
+
+    <repositories>
+
+        <repository> <!-- This repo fixes issues with transitive dependencies -->
+            <id>jcenter</id>
+            <url>http://jcenter.bintray.com</url>
+        </repository>
+        <repository>
+            <id>jitpack.io</id>
+            <url>https://jitpack.io</url>
+        </repository>
+    </repositories>
+
+
+    <dependencies>
+
+
+        <dependency>
+            <groupId>com.google.guava</groupId>
+            <artifactId>guava</artifactId>
+            <version>23.5-jre</version>
+
+        </dependency>
+
+        <dependency>
+            <groupId>org.apache.commons</groupId>
+            <artifactId>commons-csv</artifactId>
+            <version>1.5</version>
+        </dependency>
+
+        <dependency>
+            <groupId>com.github.Austinv11</groupId>
+            <artifactId>Discord4J</artifactId>
+            <version>2.9.2</version>
+        </dependency>
+
+        <dependency>
+            <groupId>de.btobastian.sdcf4j</groupId>
+            <artifactId>sdcf4j-core</artifactId>
+            <version>v1.0.8</version>
+        </dependency>
+        <dependency>
+            <groupId>de.btobastian.sdcf4j</groupId>
+            <!-- Possible artifact ids: sdcf4j-javacord, sdcf4j-jda3, sdcf4j-discord4j -->
+            <artifactId>sdcf4j-discord4j</artifactId>
+            <version>v1.0.8</version>
+        </dependency>
+
+        <dependency>
+            <groupId>org.slf4j</groupId>
+            <artifactId>slf4j-api</artifactId>
+            <version>1.6.6</version>
+        </dependency>
+
+        <dependency>
+            <groupId>ch.qos.logback</groupId>
+            <artifactId>logback-classic</artifactId>
+            <version>1.0.9</version>
+        </dependency>
+
+
+    </dependencies>
+
+
+</project>
+
